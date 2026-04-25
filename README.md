@@ -126,3 +126,21 @@ The project successfully demonstrates an end-to-end data analytics workflow. Ins
 ## 👤 Author
 
 Sushant Raj
+
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/cf8aaebd-3aaa-4f89-86ba-332dde7b478e" />
+
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/ea7b11ed-1498-4ed3-bf20-b6f4cac455d5" />
+
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/4ee4eb86-1b19-4cf0-aff0-f7980a3bb49d" />
+
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/b8b147df-25ee-4556-ade8-4cfc98808540" />
+
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/8ebdf23d-8579-4d6c-bd75-80b756a35d2f" />
+
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/fd52c75c-a38a-4e0b-bced-7d034e5e9e72" />
+
+
+
+
+
+
